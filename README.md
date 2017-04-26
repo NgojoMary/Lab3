@@ -1,1 +1,2 @@
-This repository is for lab3
+# TLE 9 Class Exercises
+This contains exercises on linking sections of a page and other sites.
